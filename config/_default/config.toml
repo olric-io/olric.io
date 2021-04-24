@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://olric-io.github.io/olric.io/"
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
