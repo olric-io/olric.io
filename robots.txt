@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://olric-io.github.io/olric.io/sitemap.xml
+Sitemap: https://olric.io/sitemap.xml
