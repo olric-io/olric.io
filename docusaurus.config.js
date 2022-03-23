@@ -12,9 +12,9 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'foobar',
-  organizationName: 'buraksezer', // Usually your GitHub org/user name.
-  projectName: 'olric', // Usually your repo name.
-
+  organizationName: 'olric-io', // Usually your GitHub org/user name.
+  projectName: 'olric.io', // Usually your repo name.
+  trailingSlash: false,
   presets: [
     [
       'classic',
