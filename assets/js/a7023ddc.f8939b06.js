@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkolricweb=self.webpackChunkolricweb||[]).push([[713],{3457:function(l){l.exports=JSON.parse('{"olric":{"allTagsPath":"/blog/tags","slug":"/blog/tags/olric","name":"olric","count":1,"permalink":"/blog/tags/olric"}}')}}]);

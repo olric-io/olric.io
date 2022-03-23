@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://olric.io/blog</id>
+    <title>Distributed, in-memory data structure store Blog</title>
+    <updated>2022-03-24T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://olric.io/blog"/>
+    <subtitle>Distributed, in-memory data structure store Blog</subtitle>
+    <icon>https://olric.io/foobar</icon>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>hello-world</id>
+        <link href="https://olric.io/blog/hello-world"/>
+        <updated>2022-03-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello, World!]]></summary>
+        <content type="html"><![CDATA[<p>Hello, World!</p>]]></content>
+        <author>
+            <name>Burak</name>
+            <uri>https://github.com/buraksezer</uri>
+        </author>
+        <category label="olric" term="olric"/>
+    </entry>
+</feed>

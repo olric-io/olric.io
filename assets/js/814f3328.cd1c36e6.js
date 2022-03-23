@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkolricweb=self.webpackChunkolricweb||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post","permalink":"/blog/hello-world"}]}')}}]);
